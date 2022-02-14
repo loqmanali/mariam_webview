@@ -1,0 +1,6 @@
+package com.loqman.mariam
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
