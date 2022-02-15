@@ -44,7 +44,7 @@ class _SplashScreenState extends State<SplashScreen> {
               Image.asset('assets/welcome.png'),
               SizedBox(height: 35.0),
               Text(
-                'Welcome To Mariam Store',
+                'مرحباً بك في متجر ابن سينا',
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 25,

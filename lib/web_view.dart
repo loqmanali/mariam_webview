@@ -94,7 +94,7 @@ class _WebViewStoreState extends State<WebViewStore> {
           child: InAppWebView(
             key: webViewKey,
             initialUrlRequest:
-            URLRequest(url: Uri.parse('http://resturant.shantaweb.com')),
+            URLRequest(url: Uri.parse('http://ibnsinastore.shantaweb.com')),
             // initialHeaders: {'Mobile': 'moibile'},
             initialOptions: options,
             pullToRefreshController: pullToRefreshController,
