@@ -42,7 +42,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.loqman.mariam"
+        applicationId "com.shanta.ibnsinastore"
         minSdkVersion 21
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()

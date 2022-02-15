@@ -1,4 +1,4 @@
-package com.loqman.mariam
+package com.shanta.ibnsinastore
 
 import io.flutter.embedding.android.FlutterActivity
 
