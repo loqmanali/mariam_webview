@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import './web_view.dart';
 import 'dart:async';
@@ -41,16 +42,16 @@ class _SplashScreenState extends State<SplashScreen> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset('assets/welcome.png'),
-              SizedBox(height: 35.0),
-              Text(
+              Image.asset('assets/welcome.png', fit: BoxFit.cover),
+              //SizedBox(height: 35.0),
+              /*Text(
                 'Welcome To Mariam Store',
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 25,
                   fontWeight: FontWeight.bold,
                 ),
-              ),
+              ),*/
             ],
           ),
         ),

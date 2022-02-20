@@ -1,4 +1,4 @@
-package com.loqman.mariam
+package com.shantaweb.krinkel
 
 import io.flutter.embedding.android.FlutterActivity
 
